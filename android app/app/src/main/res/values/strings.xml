@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CSE OF PUST</string>
+
+    <string-array name="sessions">
+        <item>select session</item>
+        <item>2012-2013</item>
+        <item>2013-2014</item>
+        <item>2014-2015</item>
+        <item>2015-2016</item>
+        <item>2016-2017</item>
+    </string-array>
+</resources>
